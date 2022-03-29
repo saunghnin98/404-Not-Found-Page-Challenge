@@ -1,0 +1,56 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-left: 50px;
+    font-family: 'Inconsolata';
+    columns: #333;
+}
+h1 , p , button {
+    font-family: 'Space Mono', monospace;
+    
+}
+h1 {
+    color: #333333;
+}
+p {
+    color: #4f4f4f;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 100px);
+}
+
+.hero-img {
+    height: auto;
+    max-width: 300px;
+    margin: 30px 30px;
+    padding-right: 30px;
+}
+
+.content-right {
+    width: 35%;
+
+}
+
+button {
+    background-color: #333333;
+    align-items: center;
+    text-align: center;
+    width: 160px;
+    height: 40px;
+    color: #ffffff;
+font-size: 14px;
+}
+
+p {
+    margin: 20px 0;
+}
