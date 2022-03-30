@@ -48,7 +48,8 @@ button {
     width: 160px;
     height: 40px;
     color: #ffffff;
-font-size: 14px;
+    font-size: 14px;
+    border : none;
 }
 
 p {
